@@ -1,2 +1,2 @@
-echo "Welcome, $@"
-echo $2
+#!/bin/bash
+echo "Welcome, $*"
